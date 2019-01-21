@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data-sources>
 	<data-source id="postgres-jdbc-16864c7ce20-603eaf69a416ec6f" provider="postgresql" driver="postgres-jdbc" name="PostgreSQL - postgres" save-password="true" show-system-objects="true" show-util-objects="true" read-only="false">
-		<connection host="localhost" port="5432" server="" database="recipe" url="jdbc:postgresql://localhost:5432/recipe" user="hiroto" password="OwsUKURaUR9VS1Rud/c=" type="dev">
+		<connection host="localhost" port="5432" server="" database="postgres" url="jdbc:postgresql://localhost:5432/postgres" user="hiroto" password="OwsUKURaUR9VS1Rud/c=" type="dev">
 			<provider-property name="@dbeaver-show-non-default-db@" value="true"/>
 			<provider-property name="@dbeaver-show-template-db@" value="false"/>
 		</connection>
